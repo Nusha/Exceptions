@@ -45,4 +45,5 @@ public class task1 {
         getValueByIndex(arr, 5);
 
     }
+
 }
